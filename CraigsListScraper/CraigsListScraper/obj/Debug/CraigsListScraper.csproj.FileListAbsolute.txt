@@ -1,0 +1,6 @@
+C:\Users\steve\Desktop\Githhub\CraigsListScraper\CraigsListScraper\bin\Debug\CraigsListScraper.exe.config
+C:\Users\steve\Desktop\Githhub\CraigsListScraper\CraigsListScraper\bin\Debug\CraigsListScraper.exe
+C:\Users\steve\Desktop\Githhub\CraigsListScraper\CraigsListScraper\bin\Debug\CraigsListScraper.pdb
+C:\Users\steve\Desktop\Githhub\CraigsListScraper\CraigsListScraper\obj\Debug\CraigsListScraper.csprojResolveAssemblyReference.cache
+C:\Users\steve\Desktop\Githhub\CraigsListScraper\CraigsListScraper\obj\Debug\CraigsListScraper.exe
+C:\Users\steve\Desktop\Githhub\CraigsListScraper\CraigsListScraper\obj\Debug\CraigsListScraper.pdb
